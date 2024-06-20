@@ -4,10 +4,15 @@
 The Expired Product Alert System is designed to enhance food safety, inventory management, and customer satisfaction within the retail sector. It provides shopkeepers with efficient tools to manage product expiry dates and offers customers real-time information on product freshness, thereby reducing the sale of expired products and ensuring compliance with food safety regulations.
 
 **Features:**
+
 User Registration: Allows shopkeepers and customers to register with name, email, and password.
+
 Product Information Input: Enables shopkeepers to input product details such as name, price, expiry date, and quantity.
+
 Expiry Display: Displays a list of products that are nearing their expiry date for shopkeepers.
+
 Product Freshness Display: Allows customers to view the freshness and expiry dates of products.
+
 Data Security: Ensures user data is encrypted and stored securely.
 
 **Usage:**
