@@ -75,7 +75,7 @@
     <div class="dashboard">
         <?php
         // Establish a connection to the database
-        $conn = new mysqli('localhost:3306', 'root', 'Xampp@Mysql@590', 'products');
+        $conn = new mysqli('localhost:3306', 'root', '', 'products');
 
         // Check the connection
         if ($conn->connect_error) {
