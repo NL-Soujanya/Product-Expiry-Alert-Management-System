@@ -26,5 +26,7 @@ Navigate to the "Product Freshness" section to view information on product fresh
 
 **System Requirements:**
 Operating System: Windows, macOS, or Linux
+
 Browser: Latest version of Google Chrome, Mozilla Firefox, or Microsoft Edge
+
 XAMPP: Latest version from Apache Friends
