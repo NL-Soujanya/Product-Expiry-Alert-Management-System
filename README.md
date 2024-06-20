@@ -25,6 +25,7 @@ Register and log in to the system.
 Navigate to the "Product Freshness" section to view information on product freshness and expiry dates.
 
 **System Requirements:**
+
 Operating System: Windows, macOS, or Linux
 
 Browser: Latest version of Google Chrome, Mozilla Firefox, or Microsoft Edge
