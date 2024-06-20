@@ -42,7 +42,7 @@
     <h4>List of Products:</h4>
 
     <?php
-    $conn = new mysqli('localhost:3306', 'root', 'Xampp@Mysql@590', 'products');
+    $conn = new mysqli('localhost:3306', 'root', '', 'products');
 
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
